@@ -18,7 +18,7 @@ You give it a URL and a natural language prompt, it scrapes the content (using r
 ## Local Setup
 1️⃣ Clone the repository
 
-- git clone [https://github.com/your-username/scraper-ai.git](https://github.com/aniruddramesh/Scraper.ai.git)
+- git clone https://github.com/aniruddramesh/Scraper.ai.git
 - cd scraper-ai
 
 2️⃣ Backend setup
