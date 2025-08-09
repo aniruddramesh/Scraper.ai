@@ -5,4 +5,3 @@ requests
 selenium
 google-generativeai
 webdriver-manager
-gunicorn
