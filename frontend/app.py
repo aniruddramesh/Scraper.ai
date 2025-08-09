@@ -6,7 +6,7 @@ st.set_page_config(page_title="Scraper.ai", page_icon="🕸️", layout="centere
 st.title("Scraper.ai - Dig and Dust")
 st.write("Enter a URL and an AI prompt. The backend will scrape the page and format it according to the prompt.")
 
-backend_default = "http://127.0.0.1:5000/process"
+backend_default = "https://scraper-ai-backend-tyew.onrender.com"
 # backend_url = st.text_input("Backend endpoint", value=backend_default)
 
 # User inputs
